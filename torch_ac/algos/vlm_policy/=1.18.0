@@ -1,0 +1,5 @@
+Collecting numpy
+  Using cached numpy-2.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (60 kB)
+Using cached numpy-2.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (19.5 MB)
+Installing collected packages: numpy
+Successfully installed numpy-2.0.1
