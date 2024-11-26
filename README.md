@@ -81,9 +81,8 @@ These files are suited for [`minigrid`](https://github.com/Farama-Foundation/Min
 
 The citation for this repository will be updated.
 
+**Acknowledgements**
 ```
-
-## Acknowledgements
 This code is based on top of :
 [Minigrid](https://github.com/Farama-Foundation/Minigrid?tab=readme-ov-file) , 
 [RL Starter Files](https://github.com/lcswillems/rl-starter-files?tab=readme-ov-file) , 
